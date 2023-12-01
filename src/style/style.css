@@ -7,12 +7,12 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  
+  background-color: black;
 }
 
 a {
   text-decoration: none;
-  color: black;
+  color:white;
 }
 
 ul {
@@ -45,7 +45,7 @@ ul {
 h1 {
   margin: 10px;
   text-align: center;
-  color: blue;
+  color: white;
 }
 
 .pictures {
@@ -64,6 +64,7 @@ h1 {
 
 .pictures .picture {
   font-size: 1.2rem;
+  color: white;
   padding: 1rem;
   width: 400px;
 }
